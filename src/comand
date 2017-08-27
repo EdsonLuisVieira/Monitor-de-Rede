@@ -1,0 +1,3 @@
+#!/bin/bash
+touch info.txt
+ ps -eo pid,ppid,tt,etime,cmd > info.txt

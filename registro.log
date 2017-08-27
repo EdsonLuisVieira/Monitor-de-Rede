@@ -1,0 +1,341 @@
+2017-08-23T19:43:43.841
+Dispositivo: Computador-IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+<<<<<<< HEAD
+
+2017-08-23T19:47:34.990
+Dispositivo: Computador-IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+2017-08-23T19:48:48.161
+Dispositivo: Computador-IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+Data e Hora:2017-08-23T19:49:03.483
+Administrador: root-Matricula: root
+
+Data e Hora:2017-08-23T19:58:04.495
+Administrador: root-Matricula: root
+Intruso: 192.168.10.1
+Intruso: 192.168.10.105
+Conectados: 
+Computador-IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+
+2017-08-23T21:05:17.881
+Dispositivo: Computador-IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+Data e Hora:2017-08-23T21:19:05.948
+Administrador: root-Matricula: root
+Intruso: 192.168.10.1
+Intruso: 192.168.10.104
+Intruso: 192.168.10.105
+Conectados: 
+Computador-IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+
+2017-08-23T21:55:46.925
+Dispositivo: Computador-IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+2017-08-23T22:08:35.631
+Dispositivo: Computador-IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+2017-08-23T22:24:35.406
+Dispositivo: Computador-IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+2017-08-23T22:33:50.067
+Dispositivo: Computador-IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+Data e Hora:2017-08-23T22:38:26.845
+Administrador: root-Matricula: root
+
+Data e Hora:2017-08-23T23:01:50.068
+Administrador: root-Matricula: root
+Intruso: 192.168.10.102
+Intruso: 192.168.10.103
+Intruso: 192.168.10.105
+Intruso: 192.168.10.107
+Conectados: 
+Computador-IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+
+Data e Hora:2017-08-23T23:04:30.105
+Administrador: root-Matricula: root
+Intruso: 192.168.10.102
+Intruso: 192.168.10.103
+Intruso: 192.168.10.105
+Intruso: 192.168.10.107
+Conectados: 
+Computador-IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+
+2017-08-24T07:36:02.674
+Dispositivo: Computador: IP=10.0.2.127, MAC=10-1F-74-40-9A-81, HOST=ifpb, SO=Linux, VERSAO=4.4.0-92-generic
+
+Data e Hora:2017-08-24T07:47:21.032
+Administrador: root-Matricula: root
+Conectados: 
+[Computador: IP=10.0.2.127, MAC=10-1F-74-40-9A-81, HOST=ifpb, SO=Linux, VERSAO=4.4.0-92-generic
+, Computador: IP=10.0.2.128, MAC=2C-27-D7-A1-FE-B8, HOST=ifpb, SO=Linux, VERSAO=4.4.0-92-generic
+]
+
+2017-08-24T08:11:18.299
+Dispositivo: Computador: IP=10.0.2.127, MAC=10-1F-74-40-9A-81, HOST=ifpb, SO=Linux, VERSAO=4.4.0-92-generic
+
+2017-08-24T08:11:35.752
+Dispositivo: Computador: IP=10.0.2.128, MAC=2C-27-D7-A1-FE-B8, HOST=ifpb, SO=Linux, VERSAO=4.4.0-92-generic
+
+2017-08-24T08:19:47.256
+Dispositivo: Computador: IP=10.0.2.127, MAC=10-1F-74-40-9A-81, HOST=ifpb, SO=Linux, VERSAO=4.4.0-92-generic
+
+Data e Hora:2017-08-24T12:23:53.917
+Administrador: root-Matricula: root
+Conectados: 
+[]
+
+2017-08-24T12:37:49.468
+Dispositivo: Computador: IP=10.0.2.127, MAC=10-1F-74-40-9A-81, HOST=ifpb, SO=Linux, VERSAO=4.4.0-92-generic
+
+2017-08-24T12:38:11.617
+Dispositivo: Computador: IP=10.0.2.179, MAC=98-4B-E1-E8-26-7A, HOST=LAB-PESQ-PC02, SO=Windows 7, VERSAO=6.1
+
+2017-08-24T13:16:02.653
+Dispositivo: Computador: IP=10.0.2.127, MAC=10-1F-74-40-9A-81, HOST=ifpb, SO=Linux, VERSAO=4.4.0-92-generic
+
+2017-08-24T13:16:15.683
+Dispositivo: Computador: IP=10.0.2.179, MAC=98-4B-E1-E8-26-7A, HOST=LAB-PESQ-PC02, SO=Windows 7, VERSAO=6.1
+
+2017-08-24T13:22:11.834
+Dispositivo: Computador: IP=10.0.2.127, MAC=10-1F-74-40-9A-81, HOST=ifpb, SO=Linux, VERSAO=4.4.0-92-generic
+
+2017-08-24T13:30:11.373
+Dispositivo: Computador: IP=10.0.2.179, MAC=98-4B-E1-E8-26-7A, HOST=LAB-PESQ-PC02, SO=Windows 7, VERSAO=6.1
+
+2017-08-24T13:30:25.594
+Dispositivo: Computador: IP=10.0.2.127, MAC=10-1F-74-40-9A-81, HOST=ifpb, SO=Linux, VERSAO=4.4.0-92-generic
+
+Data e Hora:2017-08-24T17:55:16.252
+Administrador: root-Matricula: root
+Conectados: 
+[]
+
+Data e Hora:2017-08-24T18:02:47.668
+Administrador: root-Matricula: root
+Intruso: 192.168.10.101
+Intruso: 192.168.10.103
+Conectados: 
+[Computador: IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+]
+
+2017-08-24T18:03:01.563
+Dispositivo: Computador: IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+Data e Hora:2017-08-24T18:30:51.722
+Administrador: root-Matricula: root
+Conectados: 
+[]
+
+2017-08-24T19:05:30.549
+Dispositivo: Computador: IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+Data e Hora:2017-08-25T07:29:36.830
+Administrador: root-Matricula: root
+Conectados: 
+[]
+
+2017-08-25T08:08:06.748
+Dispositivo: Computador: IP=10.0.2.162, MAC=78-2B-CB-EE-E5-AF, HOST=D3SKT0P-C48R4L, SO=Windows 10, VERSAO=10.0
+
+2017-08-25T08:14:03.294
+Dispositivo: Computador: IP=10.0.2.162, MAC=78-2B-CB-EE-E5-AF, HOST=D3SKT0P-C48R4L, SO=Windows 10, VERSAO=10.0
+
+2017-08-25T08:24:21.252
+Dispositivo: Computador: IP=10.0.2.162, MAC=78-2B-CB-EE-E5-AF, HOST=D3SKT0P-C48R4L, SO=Windows 10, VERSAO=10.0
+
+2017-08-25T08:27:12.577
+Dispositivo: Computador: IP=10.0.2.135, MAC=08-00-27-23-D7-55, HOST=Debian8, SO=Linux, VERSAO=3.16.0-4-amd64
+
+2017-08-25T08:27:23.642
+Dispositivo: Computador: IP=10.0.2.135, MAC=08-00-27-23-D7-55, HOST=Debian8, SO=Linux, VERSAO=3.16.0-4-amd64
+
+2017-08-25T08:51:26.505
+Dispositivo: Computador: IP=10.0.2.162, MAC=78-2B-CB-EE-E5-AF, HOST=D3SKT0P-C48R4L, SO=Windows 10, VERSAO=10.0
+
+2017-08-25T08:51:42.582
+Dispositivo: Computador: IP=10.0.2.135, MAC=08-00-27-23-D7-55, HOST=Debian8, SO=Linux, VERSAO=3.16.0-4-amd64
+
+2017-08-25T11:27:40.189
+Dispositivo: Computador: IP=10.0.2.162, MAC=78-2B-CB-EE-E5-AF, HOST=D3SKT0P-C48R4L, SO=Windows 10, VERSAO=10.0
+
+Data e Hora:2017-08-25T11:30:29.100
+Administrador: root-Matricula: root
+Conectados: 
+[Computador: IP=10.0.2.162, MAC=78-2B-CB-EE-E5-AF, HOST=D3SKT0P-C48R4L, SO=Windows 10, VERSAO=10.0
+]
+=======
+
+2017-08-23T19:47:34.990
+Dispositivo: Computador-IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+2017-08-23T19:48:48.161
+Dispositivo: Computador-IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+Data e Hora:2017-08-23T19:49:03.483
+Administrador: root-Matricula: root
+
+Data e Hora:2017-08-23T19:58:04.495
+Administrador: root-Matricula: root
+Intruso: 192.168.10.1
+Intruso: 192.168.10.105
+Conectados: 
+Computador-IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+
+2017-08-23T21:05:17.881
+Dispositivo: Computador-IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+Data e Hora:2017-08-23T21:19:05.948
+Administrador: root-Matricula: root
+Intruso: 192.168.10.1
+Intruso: 192.168.10.104
+Intruso: 192.168.10.105
+Conectados: 
+Computador-IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+
+2017-08-23T21:55:46.925
+Dispositivo: Computador-IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+2017-08-23T22:08:35.631
+Dispositivo: Computador-IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+2017-08-23T22:24:35.406
+Dispositivo: Computador-IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+2017-08-23T22:33:50.067
+Dispositivo: Computador-IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+Data e Hora:2017-08-23T22:38:26.845
+Administrador: root-Matricula: root
+
+Data e Hora:2017-08-23T23:01:50.068
+Administrador: root-Matricula: root
+Intruso: 192.168.10.102
+Intruso: 192.168.10.103
+Intruso: 192.168.10.105
+Intruso: 192.168.10.107
+Conectados: 
+Computador-IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+
+Data e Hora:2017-08-23T23:04:30.105
+Administrador: root-Matricula: root
+Intruso: 192.168.10.102
+Intruso: 192.168.10.103
+Intruso: 192.168.10.105
+Intruso: 192.168.10.107
+Conectados: 
+Computador-IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+
+2017-08-24T07:36:02.674
+Dispositivo: Computador: IP=10.0.2.127, MAC=10-1F-74-40-9A-81, HOST=ifpb, SO=Linux, VERSAO=4.4.0-92-generic
+
+Data e Hora:2017-08-24T07:47:21.032
+Administrador: root-Matricula: root
+Conectados: 
+[Computador: IP=10.0.2.127, MAC=10-1F-74-40-9A-81, HOST=ifpb, SO=Linux, VERSAO=4.4.0-92-generic
+, Computador: IP=10.0.2.128, MAC=2C-27-D7-A1-FE-B8, HOST=ifpb, SO=Linux, VERSAO=4.4.0-92-generic
+]
+
+2017-08-24T08:11:18.299
+Dispositivo: Computador: IP=10.0.2.127, MAC=10-1F-74-40-9A-81, HOST=ifpb, SO=Linux, VERSAO=4.4.0-92-generic
+
+2017-08-24T08:11:35.752
+Dispositivo: Computador: IP=10.0.2.128, MAC=2C-27-D7-A1-FE-B8, HOST=ifpb, SO=Linux, VERSAO=4.4.0-92-generic
+
+2017-08-24T08:19:47.256
+Dispositivo: Computador: IP=10.0.2.127, MAC=10-1F-74-40-9A-81, HOST=ifpb, SO=Linux, VERSAO=4.4.0-92-generic
+
+Data e Hora:2017-08-24T12:23:53.917
+Administrador: root-Matricula: root
+Conectados: 
+[]
+
+2017-08-24T12:37:49.468
+Dispositivo: Computador: IP=10.0.2.127, MAC=10-1F-74-40-9A-81, HOST=ifpb, SO=Linux, VERSAO=4.4.0-92-generic
+
+2017-08-24T12:38:11.617
+Dispositivo: Computador: IP=10.0.2.179, MAC=98-4B-E1-E8-26-7A, HOST=LAB-PESQ-PC02, SO=Windows 7, VERSAO=6.1
+
+2017-08-24T13:16:02.653
+Dispositivo: Computador: IP=10.0.2.127, MAC=10-1F-74-40-9A-81, HOST=ifpb, SO=Linux, VERSAO=4.4.0-92-generic
+
+2017-08-24T13:16:15.683
+Dispositivo: Computador: IP=10.0.2.179, MAC=98-4B-E1-E8-26-7A, HOST=LAB-PESQ-PC02, SO=Windows 7, VERSAO=6.1
+
+2017-08-24T13:22:11.834
+Dispositivo: Computador: IP=10.0.2.127, MAC=10-1F-74-40-9A-81, HOST=ifpb, SO=Linux, VERSAO=4.4.0-92-generic
+
+2017-08-24T13:30:11.373
+Dispositivo: Computador: IP=10.0.2.179, MAC=98-4B-E1-E8-26-7A, HOST=LAB-PESQ-PC02, SO=Windows 7, VERSAO=6.1
+
+2017-08-24T13:30:25.594
+Dispositivo: Computador: IP=10.0.2.127, MAC=10-1F-74-40-9A-81, HOST=ifpb, SO=Linux, VERSAO=4.4.0-92-generic
+
+Data e Hora:2017-08-24T17:55:16.252
+Administrador: root-Matricula: root
+Conectados: 
+[]
+
+Data e Hora:2017-08-24T18:02:47.668
+Administrador: root-Matricula: root
+Intruso: 192.168.10.101
+Intruso: 192.168.10.103
+Conectados: 
+[Computador: IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+]
+
+2017-08-24T18:03:01.563
+Dispositivo: Computador: IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+Data e Hora:2017-08-24T18:30:51.722
+Administrador: root-Matricula: root
+Conectados: 
+[]
+
+2017-08-24T19:05:30.549
+Dispositivo: Computador: IP=192.168.10.106, MAC=70-1A-04-70-61-2D, HOST=oi-PC, SO=Windows 7, VERSAO=6.1
+
+Data e Hora:2017-08-25T07:29:36.830
+Administrador: root-Matricula: root
+Conectados: 
+[]
+
+2017-08-25T08:08:06.748
+Dispositivo: Computador: IP=10.0.2.162, MAC=78-2B-CB-EE-E5-AF, HOST=D3SKT0P-C48R4L, SO=Windows 10, VERSAO=10.0
+
+2017-08-25T08:14:03.294
+Dispositivo: Computador: IP=10.0.2.162, MAC=78-2B-CB-EE-E5-AF, HOST=D3SKT0P-C48R4L, SO=Windows 10, VERSAO=10.0
+
+2017-08-25T08:24:21.252
+Dispositivo: Computador: IP=10.0.2.162, MAC=78-2B-CB-EE-E5-AF, HOST=D3SKT0P-C48R4L, SO=Windows 10, VERSAO=10.0
+
+2017-08-25T08:27:12.577
+Dispositivo: Computador: IP=10.0.2.135, MAC=08-00-27-23-D7-55, HOST=Debian8, SO=Linux, VERSAO=3.16.0-4-amd64
+
+2017-08-25T08:27:23.642
+Dispositivo: Computador: IP=10.0.2.135, MAC=08-00-27-23-D7-55, HOST=Debian8, SO=Linux, VERSAO=3.16.0-4-amd64
+
+2017-08-25T08:51:26.505
+Dispositivo: Computador: IP=10.0.2.162, MAC=78-2B-CB-EE-E5-AF, HOST=D3SKT0P-C48R4L, SO=Windows 10, VERSAO=10.0
+
+2017-08-25T08:51:42.582
+Dispositivo: Computador: IP=10.0.2.135, MAC=08-00-27-23-D7-55, HOST=Debian8, SO=Linux, VERSAO=3.16.0-4-amd64
+
+2017-08-25T11:27:40.189
+Dispositivo: Computador: IP=10.0.2.162, MAC=78-2B-CB-EE-E5-AF, HOST=D3SKT0P-C48R4L, SO=Windows 10, VERSAO=10.0
+
+Data e Hora:2017-08-25T11:30:29.100
+Administrador: root-Matricula: root
+Conectados: 
+[Computador: IP=10.0.2.162, MAC=78-2B-CB-EE-E5-AF, HOST=D3SKT0P-C48R4L, SO=Windows 10, VERSAO=10.0
+]
+>>>>>>> 07d3e858e426bf5c237ce48f2b6d9086e5518a64
